@@ -1,2 +1,3 @@
 radek 1
-
+tohle je druhy radek ve VSku. nepulloval jsem
+konflikt je na světě
